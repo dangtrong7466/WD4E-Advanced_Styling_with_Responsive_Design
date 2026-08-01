@@ -63,7 +63,7 @@ div{
 @media screen and (min-width: 998px){
     div{
         display: inline-block;
-        wifth: 30vw;
+        width: 30vw;
         margin: 1.5%;
     }
 }
